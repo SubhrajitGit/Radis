@@ -1,0 +1,14 @@
+{
+  "name": "redisplayground",
+  "module": "index.js",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "ioredis": "^5.4.1"
+  }
+}
